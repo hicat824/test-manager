@@ -1,4 +1,0 @@
-/home/xumaozhou/CLionProjects/dxf_util/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xumaozhou/CLionProjects/dxf_util/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xumaozhou/CLionProjects/dxf_util/cmake-build-debug/CMakeFiles/geotest.dir
-/home/xumaozhou/CLionProjects/dxf_util/cmake-build-debug/CMakeFiles/MyLibs.dir
