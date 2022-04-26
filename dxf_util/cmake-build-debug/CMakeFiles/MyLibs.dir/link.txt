@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libMyLibs.so -o libMyLibs.so CMakeFiles/MyLibs.dir/src/dxflib/dl_dxf.cpp.o CMakeFiles/MyLibs.dir/src/dxflib/dl_writer_ascii.cpp.o CMakeFiles/MyLibs.dir/src/feature_dxf_serializer.cpp.o CMakeFiles/MyLibs.dir/src/maotest.cpp.o 

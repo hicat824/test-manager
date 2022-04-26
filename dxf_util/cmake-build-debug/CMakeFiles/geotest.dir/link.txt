@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/geotest.dir/src/maotest.cpp.o -o geotest  -Wl,-rpath,/home/xumaozhou/CLionProjects/dxf_util/cmake-build-debug libMyLibs.so 

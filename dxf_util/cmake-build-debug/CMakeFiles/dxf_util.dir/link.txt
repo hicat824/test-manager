@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdxf_util.a CMakeFiles/dxf_util.dir/src/dxflib/dl_dxf.o CMakeFiles/dxf_util.dir/src/dxflib/dl_writer_ascii.o CMakeFiles/dxf_util.dir/src/feature_dxf_serializer.o
+/usr/bin/ranlib libdxf_util.a
